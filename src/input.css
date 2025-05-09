@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme{
+    --color-grey-950: #131518;
+    --color-grey-900: #262E38;
+    --color-grey-500: #969FAD;
+    --color-orange-500: #FC7614;
+    --color-dark-blue: #262E38;
+    --color-gradient-1: #232A34;
+    --color-gradient-2: #181E27;
+    --font-overpass:  "Overpass", sans-serif;
+}
+
+@custom-variant hover (&:hover);
